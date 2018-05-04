@@ -1,11 +1,5 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) CSS Animation (90 mins)
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) CSS Animation 
 
-| Timing | Type | Topic |
-| --- | --- | --- |
-| 15 mins | [Introduction](#introduction) | CSS Animations |
-| 20 mins | [Independent Practice](#ind-practice-research) | Research Transforms, Transitions, and Animations |
-| 50 min | [Independent Practice](#ind-practice) | Animate it! |
-| 5 min | [Conclusion](#conclusion) | Animate it! |
 
 ### LEARNING OBJECTIVES
 - Utilize browser compatibility techniques such as vendor prefixes, the SHIV, and meta tags.
@@ -19,7 +13,7 @@
 ***
 
 <a name="introduction"></a>
-## Introduction: CSS Animations (15 mins)
+## Introduction: CSS Animations 
 
 Today we'll cover three major topics, each somewhat related:
 
@@ -134,7 +128,7 @@ Break into groups of four. Each group will have 20 minutes to prepare a short ex
 ***
 
 <a name="ind-practice"></a>
-## Independent Practice: Animate It! (50 minutes)
+## Independent Practice: Animate It! 
 Implement as many of the following exercises as you can in the time allotted. Feel free to work with a partner!
 - [Loader Animation](independent-practice/loader-animation/starter-code)
 - [Spinning Wheel Animation](independent-practice/spinning-wheel-animation/starter-code)
@@ -148,7 +142,7 @@ Implement as many of the following exercises as you can in the time allotted. Fe
 ***
 
 <a name="conclusion"></a>
-## Conclusion (5 mins)
+## Conclusion 
 #### CSS vs. JS Animations
 CSS Animations are easy and mostly compatible, so they're often a good choice for basic animation needs. For anything more complex, such as animation that depends on user input, you'll need to use Javascript. There are good libraries for animation, including jQuery UI and [GSAP (Greensock Animation Platform)](http://greensock.com/gsap).
 
